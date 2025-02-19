@@ -3,6 +3,8 @@
   border: 1px solid var(--stroke-color);
   border-radius: 1.5rem;
 
+  padding-inline: 1rem;
+
   & h3 {
     margin-top: 1rem;
   }
